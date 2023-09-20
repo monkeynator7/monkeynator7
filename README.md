@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/monicarvajalr/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+    <img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" width="30" alt="LinkedIn Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?monkeyantor7&style=flat-square&color=blue" alt=""/>
@@ -32,5 +32,7 @@ I am a Full Stack Python Developer from Chile. Fluent in :uk: and :chile:.
 
 - :bike: In my free time, I like to read, ride my bike, play some videogames (tears of the kingdom right now) and of course every streaming app available.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/monicarvajalr/)
+- :mailbox:How to reach me:
+  * By Linkedin: 
+  * By email: mcarvajalrm@gmail.com
 
