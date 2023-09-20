@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
@@ -51,15 +51,12 @@ I am a Developer from Chile. Fluent in :uk: and :chile:.
 - :bike:  In my free time, I like to read, ride my bike, play some videogames (tears of the kingdom right now) and of course every streaming app available.
 
 - :mailbox:  How to reach me:
-  <a href="https://www.linkedin.com/in/monicarvajalr/">
-    <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="20" alt="LinkedIn Badge"/>
-  </a>
-  <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="20" alt="email"/>: mcarvajalrm@gmail.com
+    - <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="20" alt="email"/>: mcarvajalrm@gmail.com
 
  ---
 
 ### :fire: My Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=monkeynator7&theme=radical&border_radius=4&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monkeynator7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
