@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/EK24OWrJSy1GkkNu0y/giphy.gif" width="100"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/monicarvajalr/">
-    <img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" width="30" alt="LinkedIn Badge"/>
+    <img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" width="100" alt="LinkedIn Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?monkeyantor7&style=flat-square&color=blue" alt=""/>
