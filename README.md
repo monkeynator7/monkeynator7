@@ -13,26 +13,53 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/EK24OWrJSy1GkkNu0y/giphy.gif" width="100"/>
+  <img src="https://i.pinimg.com/originals/4e/a6/7f/4ea67f666a6c9a7b217e2010d5bca1e9.png" width="300"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/monicarvajalr/">
-    <img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" width="100" alt="LinkedIn Badge"/>
+    <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="30" alt="LinkedIn Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?monkeyantor7&style=flat-square&color=blue" alt=""/>
 ---
+<h3>Hello there!:wave:</h3>
+My name is Monica Carvajal | Full Stack Python Developer Jr.
+  
+:hammer_and_wrench: Languages and Tools:
+<div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress" **alt="Wordpress" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" **alt="django" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" **alt="Trello" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="apple" **alt="apple" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="AI" **alt="AI" width="40" height="40"/>
+</div>
 
-### :space_invader: About Me :
-I am a Full Stack Python Developer from Chile. Fluent in :uk: and :chile:. 
+:space_invader: About Me:
+I am a Developer from Chile. Fluent in :uk: and :chile:. 
 
-- :computer: I am currently looking for a job as a Ful Stack Developer Junior.
+- :computer:  I am currently looking for a job as a Ful Stack Developer Junior.
 
-- :books: I am currently developing skills on: agile methodologies and strengthening my knowledge on Front-End and Back-End with a certified tech developer career by DigitalHouse.
+- :books:  I am currently developing skills on: agile methodologies and strengthening my knowledge on Front-End and Back-End with a certified tech developer career by DigitalHouse.
 
-- :bike: In my free time, I like to read, ride my bike, play some videogames (tears of the kingdom right now) and of course every streaming app available.
+- :bike:  In my free time, I like to read, ride my bike, play some videogames (tears of the kingdom right now) and of course every streaming app available.
 
-- :mailbox:How to reach me:
-  * By Linkedin: 
-  * By email: mcarvajalrm@gmail.com
+- :mailbox:  How to reach me:
+  <a href="https://www.linkedin.com/in/monicarvajalr/">
+    <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="20" alt="LinkedIn Badge"/>
+  </a>
+  <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="20" alt="email"/>: mcarvajalrm@gmail.com
+
+ ---
+
+### :fire: My Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=monkeynator7&theme=radical&border_radius=4&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
