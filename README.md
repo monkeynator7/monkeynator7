@@ -44,7 +44,7 @@ My name is Monica Carvajal | Full Stack Python Developer Jr.
 :space_invader: About Me:
 I am a Developer from Chile. Fluent in :uk: and :chile:. 
 
-- :computer:  I am currently looking for a job as a Ful Stack Developer Junior.
+- :computer:  I am currently looking for a job as a Full Stack Developer Junior.
 
 - :books:  I am currently developing skills on: agile methodologies and strengthening my knowledge on Front-End and Back-End with a certified tech developer career by DigitalHouse.
 
