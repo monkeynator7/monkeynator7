@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 </div>
 ---
 <h3>Hello there!:wave:</h3>
-My name is Monica Carvajal | Full Stack Python Developer Jr.
+My name is Monica Carvajal | Full Stack Developer Jr.
+- 🔭 I’m currently working on Buydepa as a Junior Back-End Developer. 
   
 :hammer_and_wrench: Languages and Tools:
 <div align="center">
@@ -44,7 +45,6 @@ My name is Monica Carvajal | Full Stack Python Developer Jr.
 :space_invader: About Me:
 I am a Developer from Chile. Fluent in :uk: and :chile:. 
 
-- :computer:  I am currently looking for a job as a Full Stack Developer Junior.
 
 - :books:  I am currently developing skills on: agile methodologies and strengthening my knowledge on Front-End and Back-End with a certified tech developer career by DigitalHouse.
 
