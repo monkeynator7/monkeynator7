@@ -56,7 +56,6 @@ I am a Developer from Chile. Fluent in :uk: and :chile:.
  ---
 
 ### :fire: My Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=monkeynator7&theme=radical&border_radius=4&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monkeynator7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
