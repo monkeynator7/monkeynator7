@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 <h3>Hello there!:wave:</h3>
 My name is Monica Carvajal | Full Stack Developer Jr.
   
-:hammer_and_wrench: Languages and Tools:<br>
+:hammer_and_wrench: Languages and Tools:
+<h3> </h3>
 [![My Skills](https://skillicons.dev/icons?i=html,css,django,docker,git,github,graphql,js,nodejs,py,ts,vscode,wordpress)](https://skillicons.dev)
 
 :space_invader: About Me:
