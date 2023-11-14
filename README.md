@@ -53,9 +53,3 @@ I am a Developer from Chile. Fluent in :uk: and :chile:.
 - :mailbox:  How to reach me:
     - <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="20" alt="email"/>: mcarvajalrm@gmail.com
 
- ---
-
-### :fire: My Stats:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monkeynator7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
