@@ -44,7 +44,7 @@ My name is Monica Carvajal | Full Stack Developer Jr.
 :space_invader: About Me:
 I am a Developer from Chile. Fluent in :uk: and :chile:. 
 
-- 🔭 I’m currently working on Buydepa as a Junior Back-End Developer.
+- 🔭 I have experience working as a back-end developer.
   
 - :books:  I am currently developing skills on: agile methodologies and strengthening my knowledge on Front-End and Back-End with a certified tech developer career by DigitalHouse.
 
@@ -52,4 +52,5 @@ I am a Developer from Chile. Fluent in :uk: and :chile:.
 
 - :mailbox:  How to reach me:
     - <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="20" alt="email"/>: mcarvajalrm@gmail.com
+  
 
