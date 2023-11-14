@@ -9,7 +9,7 @@
 
 ## Hello there! :wave:
 
-My name is Monica Carvajal and I'm  Full Stack Developer. My goal is to became a Software Engineer.
+My name is Monica Carvajal and I'm **Full Stack Developer**. My goal is to became a Software Engineer.
   
 #### :hammer_and_wrench: Languages and Tools:
 
@@ -20,17 +20,17 @@ I am a developer, dentist, bike and game lover from Chile, fluent in :uk: and :c
 
 - 🔭 I have experience working as a back-end developer.
   
-- :books: I am currently developing skills on: certified tech developer career by DigitalHouse.
+- :books: I am currently developing skills on: **Certified Tech Developer** career by DigitalHouse.
 
-- :bike: In my free time, I like to read, ride my bike, play some videogames (tears of the kingdom right now) and of course every streaming app available.
+- :bike: On my free time, I like to read, ride my bike, play some videogames (tears of the kingdom right now) and of course every streaming app available.
 
 #### :mailbox: How to reach me:
 
 <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="20" alt="email"/>
 
-`mcarvajalrm@gmail.com
-in/monicarvajalr/
-instagram/monicarvajal/`
+`mcarvajalrm@gmail.com`<br> 
+`in/monicarvajalr/`<br> 
+`instagram/monicarvajal/`
 
   
 
