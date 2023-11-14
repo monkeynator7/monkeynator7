@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 My name is Monica Carvajal | Full Stack Developer Jr.
   
 :hammer_and_wrench: Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,django, docker,git, github, graphql, js, nodejs, py, ts, vscode, wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,django,docker,git,github,graphql,js,nodejs,py,ts,vscode,wordpress)](https://skillicons.dev)
 
 :space_invader: About Me:
 I am a Developer from Chile. Fluent in :uk: and :chile:. 
