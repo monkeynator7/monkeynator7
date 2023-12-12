@@ -26,8 +26,6 @@ I am a developer, dentist, bike and game lover from Chile, fluent in :uk: and :c
 
 #### 📬 How to reach me:
 
-<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="20" alt="email"/>
-
 `mcarvajalrm@gmail.com`<br> 
 `in/monicarvajalr/`<br> 
 `instagram/monicarvajal/`
