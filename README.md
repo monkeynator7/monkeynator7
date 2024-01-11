@@ -18,7 +18,7 @@ My name is Monica Carvajal and I'm **Full Stack Developer**. My goal is to becam
 #### 👾 About Me:
 I am a developer, dentist, bike and game lover from Chile, fluent in :uk: and :chile: who's decided to pursue a career in technology. 
 
-- 🔭 I have experience working as a back-end developer.
+- 🔭 I have experience working as a full stack developer, main focus on back-end.
   
 - 📚 I am currently developing skills on: **Certified Tech Developer** career by DigitalHouse.
 
