@@ -13,7 +13,7 @@ My name is Monica Carvajal and I'm **Full Stack Developer**. My goal is to becam
   
 #### 🛠️ Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,django,docker,git,github,graphql,js,py,ts,vscode,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,django,docker,git,github,fastapi,js,py,ts,vscode,wordpress)](https://skillicons.dev)
 
 #### 👾 About Me:
 I am a developer, dentist, bike and game lover from Chile, fluent in :uk: and :chile: who's decided to pursue a career in technology. 
