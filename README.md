@@ -9,7 +9,7 @@
 
 ## Hello there! 👋
 
-My name is Monica Carvajal and I'm **Full Stack Developer**. My goal is to became a Software Engineer.
+My name is Monica Carvajal and I'm **Full Stack Developer**.
   
 #### 🛠️ Languages and Tools:
 
